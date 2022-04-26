@@ -26,7 +26,9 @@ Una calculadora que puede hacer operaciones basicas como sumar , restar, multipl
 
 
 ### 3.2. Describir el flujo de la aplicación deployada en kubernetes.
+#### Diagrama bajo nivel
 ![](diagrama1.png)
+#### Diagrama alto nivel
 ![](diagrama2.png)
 
 
