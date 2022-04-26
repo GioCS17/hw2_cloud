@@ -1,9 +1,8 @@
 # hw2_cloud
 
 
-![](kubectlonenode.png)
-
 ![](startonenode.png)
+![](kubectlonenode.png)
 
 ![](diagrama1.png)
 
