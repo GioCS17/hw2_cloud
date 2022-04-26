@@ -23,7 +23,11 @@ Una calculadora que puede hacer operaciones basicas como sumar , restar, multipl
 ## 3 **Deployment a containerized application on kubernetes**
 ### 3.1. Deployar la aplicación en los ambientes configurados: nodo único y multi-nodo. En el caso de multi-nodo
 #### Nodo unico 
+![](deploy1.1.png)
+![](deploy1.2.png)
+![](deploy1.3.png)
 
+#### Multi-nodo 
 
 ### 3.2. Describir el flujo de la aplicación deployada en kubernetes.
 #### Diagrama bajo nivel
