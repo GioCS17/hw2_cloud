@@ -8,8 +8,25 @@
 ### 1.2. Crear un cluster kubernetes local multi-nodo (host, vm, containers). Por lo menos 2 workers
 
 
-![](diagrama1.png)
+## 2 **Search and select a containerized application**
 
-![](diagrama2.png)
+
+
+### 2.1. Funcionalidad
+
+### 2.2. Incluya figuras que faciliten el entendimiento de la aplicación.
 
 ![](diagrama3.png)
+
+
+
+## 3 **Deployment a containerized application on kubernetes**
+### 3.1. Deployar la aplicación en los ambientes configurados: nodo único y multi-nodo. En el caso de multi-nodo
+#### Nodo unico :
+
+
+### 3.2. Describir el flujo de la aplicación deployada en kubernetes.
+![](diagrama1.png)
+![](diagrama2.png)
+
+
