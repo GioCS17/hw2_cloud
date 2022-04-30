@@ -6,7 +6,8 @@
 ![](kubectlonenode.png)
 
 ### 1.2. Crear un cluster kubernetes local multi-nodo (host, vm, containers). Por lo menos 2 workers
-
+![](multinode.png)
+![](multinode_info.png)
 
 ## 2 **Search and select a containerized application**
 
@@ -28,6 +29,9 @@ Una calculadora que puede hacer operaciones basicas como sumar , restar, multipl
 ![](deploy1.3.png)
 
 #### Multi-nodo 
+![](deployment_multinode.png)
+![](pods_multinode.png)
+
 
 ### 3.2. Describir el flujo de la aplicación deployada en kubernetes.
 #### Diagrama bajo nivel
